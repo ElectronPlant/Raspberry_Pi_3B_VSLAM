@@ -2,7 +2,7 @@
 
 
 This repository contains the python code of an autonomous vision guided robot implemented using a Raspberry Pi 3 Model B.
-The code is implemeted in Python 3.4 and uses OpenCV for the computer vision algorithms
+The code is implemented in Python 3.4 and uses OpenCV for the computer vision algorithms
 
 Repository contents:
 --------------------
